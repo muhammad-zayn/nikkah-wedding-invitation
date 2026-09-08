@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1400">
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c65380"/><stop offset=".14" stop-color="#ed9bb9"/><stop offset=".31" stop-color="#c64f7d"/><stop offset=".5" stop-color="#eeb0c7"/><stop offset=".69" stop-color="#c64f7d"/><stop offset=".86" stop-color="#ed9bb9"/><stop offset="1" stop-color="#bd416f"/></linearGradient>
+ <linearGradient id="fold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff" stop-opacity=".25"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#7d073f" stop-opacity=".2"/></linearGradient>
+</defs>
+<rect width="900" height="1400" fill="url(#base)"/>
+<g fill="none" stroke="url(#fold)" stroke-width="55" opacity=".7">
+ <path d="M45 0C175 230 100 410 155 630s40 470-85 770"/>
+ <path d="M190 0c90 230 70 430 90 650s0 450-35 750"/>
+ <path d="M335 0c35 260 55 430 35 680s-10 470 10 720"/>
+ <path d="M565 0c-35 260-55 430-35 680s10 470-10 720"/>
+ <path d="M710 0c-90 230-70 430-90 650s0 450 35 750"/>
+ <path d="M855 0C725 230 800 410 745 630s-40 470 85 770"/>
+</g>
+<!-- top swag/valance -->
+<g fill="#ed9fbb" stroke="#9e2458" stroke-width="3">
+ <path d="M0 0h900v125c-120-40-180 55-300 10-115-44-190-43-300 0-120 46-180-45-300-10Z"/>
+ <path d="M55 105c90 60 120 105 120 160 0 70-50 110-105 135V105Z"/>
+ <path d="M845 105c-90 60-120 105-120 160 0 70 50 110 105 135V105Z"/>
+</g>
+<!-- gold fringe -->
+<g stroke="#c59a51" stroke-width="5">
+ <path d="M0 118Q115 163 230 122T450 125T670 122T900 118"/>
+ <path d="M165 210l-10 55M185 214l-8 55M205 216l-6 54M225 215l-4 50"/>
+ <path d="M735 210l10 55M715 214l8 55M695 216l6 54M675 215l4 50"/>
+</g>
+<!-- central opening -->
+<path d="M180 120C265 210 270 290 300 370C335 465 350 560 360 720L540 720c10-160 25-255 60-350 30-80 35-160 120-250l-35-20H215Z" fill="#d98aa7" opacity=".38"/>
+</svg>

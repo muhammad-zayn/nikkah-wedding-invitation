@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+<g fill="none" stroke="#806276" stroke-width="3">
+ <path d="M50 185V90L200 38 350 90v95M50 185h300"/>
+ <path d="M90 185v-65h220v65M120 120v65M200 120v65M280 120v65"/>
+ <path d="M140 58v40M260 58v40"/>
+ <path d="M118 96q82-55 164 0"/>
+</g>
+<g fill="#c57c9d"><circle cx="200" cy="45" r="6"/><circle cx="155" cy="64" r="4"/><circle cx="245" cy="64" r="4"/></g>
+</svg>
